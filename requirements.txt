@@ -1,0 +1,27 @@
+# Core ML & LLM
+torch>=2.0.0
+transformers>=4.35.0
+peft>=0.6.0
+trl>=0.7.0
+bitsandbytes>=0.41.0
+accelerate>=0.24.0
+datasets>=2.14.0
+
+# OCR & PDF Processing
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+Pillow>=10.0.0
+
+# Web Interface
+flask>=3.0.0
+pyngrok>=7.0.0
+
+# Hugging Face Hub
+huggingface-hub>=0.19.0
+sentencepiece>=0.1.99
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.66.0
+scipy>=1.11.0
